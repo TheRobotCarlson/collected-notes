@@ -1,18 +1,18 @@
 # ACM event planning
-## 1. Vision
+## Vision
 
-## 1. Professional Development
+## Professional Development
 
-## 1. Workshops
+## Workshops
 
-## 1. Social events
+## Social events
 
-## 1. Speakers
+## Speakers
 
-## 1. Competitions
+## Competitions
 
-## 1. Cathacks
-  - Cathacks sponsors
-  - Cathacks workshops
-  - Cathacks fun events
+## Cathacks
+### Cathacks sponsors
+### Cathacks workshops
+### Cathacks fun events
 
