@@ -10,7 +10,8 @@
         - done at home too, but [expensive](https://farm.bot/)
     - mostly conceptual work with small demo
     - combining MIT [food computers](https://wiki.openag.media.mit.edu/personal_food_computers)
-    
+    - large scale [food servers](https://www.media.mit.edu/projects/food-server/overview/)
+
 - meal planner with optimizing steps
     - optimizes for different things 
         - budget
