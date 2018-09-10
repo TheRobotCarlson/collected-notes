@@ -1,0 +1,29 @@
+- smart garden
+    - tells when plants are ready to be picked
+    - waters / fertilizes if needed
+    - tells if garden needs to be weeded
+    - could go the path of full automation
+        - autoplanting
+        - autoharvesting
+        - done on industrial scale [already](https://www.cnn.com/2017/10/07/world/automated-farm-harvest-england/index.html)
+        - would only work with certain vegetables
+        - done at home too, but [expensive](https://farm.bot/)
+    - mostly conceptual work with small demo
+    - combining MIT [food computers](https://wiki.openag.media.mit.edu/personal_food_computers)
+    
+- meal planner with optimizing steps
+    - optimizes for different things 
+        - budget
+        - least dirty dishes
+        - nutrients
+        - leftovers
+        - minimal waste
+        - weighted combination
+    - weekly / monthly
+    - "with what's in your fridge"
+
+- meal making assistant
+    - steps of recipe
+    - learns how long you take to do certain tasks
+    - reminds you how to do certain routines
+    - lets you know if you're ready tp d
