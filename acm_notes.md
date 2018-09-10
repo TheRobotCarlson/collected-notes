@@ -21,7 +21,7 @@
 
 
 ## Competitions
-- HackTheHome, +ACM +ACMW +Others, date:9/15/2018-9/16/2018
+- HackTheHome, +acm +acmw +others, date:9/15/2018-9/16/2018
 - Local Hack Day, +awesomeinc date:12/2/2018
 
 ## Cathacks
