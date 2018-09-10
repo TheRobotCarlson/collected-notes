@@ -7,7 +7,8 @@ Quick setup notes for my workflow
 - reload bashrc: `source .bashrc`
 - cheat.sh: [command line cheatsheet](https://github.com/chubin/cheat.sh)
     - quick use: `curl cheat.sh/query`
-
+- notes: [command line note taker](https://github.com/pimterry/notes)
+- taskwarrior: [command line todo list](https://taskwarrior.org/docs/)
 
 ## Windows
 ### WSL
