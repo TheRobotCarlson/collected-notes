@@ -1,6 +1,20 @@
 # Project ideas
 Aggregation of project ideas thought of since 9/9/2018
 
+
+## make a better [notes](https://github.com/pimterry/notes)-like tool
+- full feature set of notes
+
+### crucial features:
+- git sync
+- folder support
+- metadata/tagging
+
+### cool features
+- taskwarrior integration
+
+
+
 ## [Robocode](http://robowiki.net/wiki/Robocode) clone
 Like hackerrank or kaggle, but for algorithms and AI practice.
 See [Headfake learning](learning_activities.md#headfake).
@@ -25,6 +39,8 @@ game.
     - JS
     - python
 
+
+
 ## smart garden
 - tells when plants are ready to be picked
 - waters / fertilizes if needed
@@ -40,6 +56,7 @@ game.
     - [$300 implementation](https://forum.openag.media.mit.edu/t/300-food-computer-mvp/2343)
 - large scale [food servers](https://www.media.mit.edu/projects/food-server/overview/)
 
+
 ## meal planner with optimizing steps
 - optimizes for different things 
     - budget
@@ -50,6 +67,7 @@ game.
     - weighted combination
 - weekly / monthly
 - "with what's in your fridge"
+
 
 ## meal making assistant
 - steps of recipe
