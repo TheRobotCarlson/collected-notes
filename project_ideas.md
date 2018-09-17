@@ -9,10 +9,11 @@ Aggregation of project ideas thought of since 9/9/2018
 - git sync
 - folder support
 - metadata/tagging
+- "source" changing, like private notes vs public ones
 
 ### cool features
 - taskwarrior integration
-
+- prereqs / blocking
 
 
 ## [Robocode](http://robowiki.net/wiki/Robocode) clone
