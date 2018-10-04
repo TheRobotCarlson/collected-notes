@@ -26,7 +26,7 @@
     - maybe use student center
 
 ## Speakers
-
+- Dynetics speaker
 
 ## Competitions
 - HackTheHome, +acm +acmw +others, date:9/15/2018-9/16/2018 - Success!
@@ -34,5 +34,9 @@
 - Local Hack Day, +awesomeinc date:12/2/2018
 - RevolutionUC, +acm +acmw
 - DerbyHacks, +acm +acmw
-- MHacks, +acm, date:10/12/2018-10/12/2018
+- MHacks, +acm, date:10/12/2018-10/13/2018
+
+# Improvements
+- QR code/link in powerpoint for attendance
+- Code for good projects
 
