@@ -1,5 +1,6 @@
 # ACM event planning
 ## Vision
+The aim of the ACM is to help foster a CS culture in Kentucky. We would like to offer growth opportunities for our members and members of the community through workshops, talks, and events. We hope inspire innovation in CS at the University of Kentucky and in the surrounding areas.
 
 ## Professional Development
 - GE professional dev
