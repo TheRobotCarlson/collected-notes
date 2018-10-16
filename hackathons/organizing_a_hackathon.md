@@ -13,3 +13,11 @@ Hackathons fill an efficiency gap that employers may not realize exists: recruit
 #### Points to emphasize
 - Students attending hackathons are going the extra mile
 
+
+# During the Hackathon
+
+# Other
+
+# Tabling
+- [Cool tool](https://github.com/nealrs/expo) for assigning tables during the hackathon from devpost.
+
