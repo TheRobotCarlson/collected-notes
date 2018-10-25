@@ -17,4 +17,4 @@ Leading up to Cathacks, the ACM and ACMW plan on having a series of workshops or
 - Midnight insomnia cookies!
 
 ## Cathacks Workshops
-
+- jared boswell - business workshop in february
