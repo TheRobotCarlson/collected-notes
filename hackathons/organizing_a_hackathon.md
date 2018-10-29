@@ -1,6 +1,13 @@
 # Organizing a hackathon
 These are notes that I've started taking on organizing a hackathon from my experience with organizing Cathacks. This isn't an exhaustive list, nor is it guaranteed to be the correct thing to do in all circumstances. This is simply a record of my experience and the steps taken. I'll try to add feedback to parts as I find whether they ended up being good or bad decisions.
 
+## Things that must be done early! (like 9 months ahead of time early!)
+- Reserve the space to be used.
+- Make a budget
+- Compile a list of sponsors to contact
+- Fill out [MLH's sponsorship form](https://mlh.io/event-membership)
+
+
 ## Sponsors
 On getting sponsors
 
