@@ -1,15 +1,19 @@
 # Cathacks Notes
 Leading up to Cathacks, the ACM and ACMW plan on having a series of workshops oriented towards preparing beginners and bolstering the abilities of more experienced members.
 
+Workshops + career fair + cathacks
+
 ## TODO
 - [ ] Email old sponsors
 - [ ] Find and email new sponsors
-- [ ] Establish times
+- [x] Establish date
+- [ ] Establish schedule
 - [x] Establish place
 - [ ] MLH Verification
 - [ ] Determine fun events during CatHacks
 - [ ] Determine workshops during CatHacks
 - [ ] Update Website
+- [ ] Update typeform
 - [ ] Get Swag for CatHacks
 - [ ] Get T-Shirts for CatHacks
 - [ ] Plan food
@@ -36,3 +40,7 @@ Leading up to Cathacks, the ACM and ACMW plan on having a series of workshops or
 
 ## Cathacks Workshops
 - jared boswell - business workshop in february
+- workshops for march (HackBlue?, Hack Madness?)
+    - consistent, 2 - 3 a week
+    - leading to cathacks
+
