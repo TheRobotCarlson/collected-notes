@@ -75,3 +75,33 @@ game.
 - learns how long you take to do certain tasks
 - reminds you how to do certain routines
 - lets you know if you're ready tp d
+
+
+## Command line productivity assist
+Taskwarrior works well for managing tasks, clearing the clutter involved with todo managers. The Notes project mentioned above works well for getting things done without getting in the way of productivity. There are still some things lacking from both of these tools that could be aggregated into one unified, modular, command line productivity platform.
+- integrates google calendar
+- planning application for events / work
+- integrates taskwarrior
+- integrates notes notetaking
+- groups tasks, deadlines, and notes into projects and contexts
+- integrates git manager for syncing between machines and for backup
+    - optional git managers
+- provides options for online hosting, but not required
+    - create shareable links
+    - better graphs for display
+    - integrates with rescuetime, other time tracking apps.
+        - maybe custom time tracking solution
+- email or text notifications, but not required
+- potentially work with exist.io or provide custom insights and suggestions
+- pipe-able
+- simple, parseable files to allow modularity and customization
+- email follow up integration
+- searchable tags
+
+## UKY ACM Blog
+The ACM is always doing things that sometimes go unnoticed. We have members that participate in hackathons and do well. We run awesome workshops. We have fun game nights. Starting a blog for government members to publish information about what we've been up to would be a great way to both communicate to the public what we've been doing and provide inspiration for other CS students here at UK. It also provides a good template for the future ACM government for activities and feedback..
+- Easy to contribute to, markdown
+- Ability to have comments for feedback on posts
+- Revamp of the website in the process
+
+
