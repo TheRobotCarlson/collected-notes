@@ -11,3 +11,9 @@ My notes on productivity beginning on 9/26/2018 and moving forward.
     - integrates a lot of services, including the weather, spotify/last.fm, rescuetime
     - provides an API for leveraging your data
 
+
+## Habit Formation
+- Don't try to change too many things at once. 
+    - This is a sure way to fail at changing any of them permanently. Often your enthusiasm causes you to want to take on many things at once, but the enthusiasm and the drive it brought with it is highly dependent on mental state and fades quickly when put under pressure. 
+
+
