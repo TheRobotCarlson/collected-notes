@@ -79,4 +79,6 @@
     - "On Poetry in General" by William Hazlitt
     - "First Principles" by Herbert Spencer
     - "How to Listen to Music" by Herbert Edward Krehbiel
+    - Works by Epictetus
+    - Works by Marcus Aurelius 
     - will write the rest on second listen
