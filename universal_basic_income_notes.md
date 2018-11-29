@@ -13,6 +13,8 @@ Automation will increasingly lead to
 
 ## UBI could be a better welfare system
 - "In FY 2019 total US government spending on welfare — federal, state, and local — is “guesstimated” to be $1,179 billion, including $721 billion for Medicaid, and $458 billion in other welfare." - [source](https://www.usgovernmentspending.com/us_welfare_spending_40.html)
+    - of this money, a large portion of it goes into "other" spending. Example graphic from FiveThirtyEight:
+    ![](https://fivethirtyeight.com/wp-content/uploads/2016/08/flowers-welfare-reform-1.png?w=576)
 
 - "On average, administrative costs are less than 10 percent of means-tested cash, food, housing, and medical spending." - [source](https://www.heritage.org/welfare/report/understanding-the-hidden-11-trillion-welfare-system-and-how-reform-it)
 
@@ -21,4 +23,10 @@ Automation will increasingly lead to
     - Good visual from FiveThirtyEight:
     ![](https://fivethirtyeight.com/wp-content/uploads/2016/04/flowers-ubi-12.png?w=1150)
 
+- direct cash transfers are some of the strongest [evidence](https://www.givedirectly.org/research-on-cash-transfers) among anti-poverty measurements
+
+
+## Replies to common misconceptions
+- Recipients will waste the money given on frivolous things.
+    - The [evidence](https://blogs.worldbank.org/impactevaluations/do-poor-waste-transfers-booze-and-cigarettes-no) mostly says that this is not the case. A meta-study on studies on alcohol and tobacco spending when individuals received conditional and unconditional cash transfers found that households tended to use the funds allocated for actual needs or for the suggested purposes that the cash was allocated for.
 
