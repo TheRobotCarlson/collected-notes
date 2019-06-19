@@ -12,5 +12,6 @@ Quick setup notes for my workflow
 
 ## Windows
 ### WSL
-- [Enable copy paste into console](https://blogs.msdn.microsoft.com/commandline/2018/04/13/copy-and-paste-arrives-for-linuxwsl-consoles/)
+- [Enable copy paste into console](https://devblogs.microsoft.com/commandline/copy-and-paste-arrives-for-linuxwsl-consoles/)
+    - Right click on bash window, select "properties" -> check the box that says "Use Ctrl+Shift+C/V as Copy/Paste"
 
